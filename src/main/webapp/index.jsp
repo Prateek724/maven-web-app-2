@@ -1,14 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
-  
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
-  
- <p> All the best my dear friend....</p>
-
+ <center>
+ <h2>Deploying artifact into tomcat Server</h2>
+ <h2>i am working with Maven Application Demo</h2> 
+ <h2> This is sample Demo Application using Jenkins for Deployment </h2>
+ <h1> Prateek Pawar </h1>
+ <h2> Linkedin - www.linkedin.com/in/prateekpawar724 </h2>
 </body>
 </html>
